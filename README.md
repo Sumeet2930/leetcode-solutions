@@ -29,7 +29,7 @@ This repository contains my solutions to **LeetCode problems**, focused on build
 ---
 
 ## 🛠 Languages Used
-- Java  
+- C++  
 *(More may be added later)*
 
 ---
