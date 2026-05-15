@@ -17,7 +17,7 @@ public:
                 high = mid;
             }
         }
-
+/////
         // low == high -> index of minimum element
         return nums[low];
     }
