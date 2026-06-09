@@ -11,7 +11,7 @@ public:
             else
                 right.push_back(x);
         }
-
+//
         vector<int> result;
         result.insert(result.end(), left.begin(), left.end());
         result.insert(result.end(), mid.begin(), mid.end());
