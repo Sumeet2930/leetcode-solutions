@@ -24,8 +24,6 @@ public:
             }
             tail = tail->next;
         }
-
-        
         tail->next = (list1 != nullptr) ? list1 : list2;
 
         return dummy.next;
