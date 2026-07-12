@@ -14,7 +14,6 @@ public:
                 rank++;
             }
         }
-
         for (int i=0; i<arr.size(); i++){
             arr[i] = rankmap[arr[i]];
         }
