@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-       std::vector<int> dp(n + 1, 0);
+       vector<int> dp(n + 1, 0);
         int sub = 1;
 
         for (int i = 1; i <= n; i++) {
