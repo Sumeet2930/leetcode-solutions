@@ -13,7 +13,7 @@ public:
                 if (counter > 0) result += str;
             }
         }
-
+//
         return result;
     }
 };
