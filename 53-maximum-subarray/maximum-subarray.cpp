@@ -7,7 +7,7 @@ public:
 
         for (int i = 1; i < nums.size(); i++){
             curr = max(nums[i], curr + nums[i]);
-            max_sum = max (curr, max_sum);
+            max_sum = max(curr, max_sum);
         }
 
         return max_sum;
